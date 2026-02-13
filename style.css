@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart-bg.jpg");
+    background-image: url("streetfighter.jpg");
     font-family: "Pixelify Sans", sans-serif;
 }
 
@@ -12,6 +12,7 @@ body {
 #envelope-container {
     text-align: center;
     cursor:pointer;
+    color: #FAF9F6
 }
 
 @keyframes pulse {
